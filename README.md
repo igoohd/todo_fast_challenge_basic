@@ -1,4 +1,4 @@
-# curotec_challenge
+# todo_fast_challenge_basic
 
 This template should help get you started developing with Vue 3 in Vite.
 
